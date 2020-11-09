@@ -1,5 +1,5 @@
 # Moving car on Discord
-This is definitely not against Discord TOS, pro use it with caution.
+This is absolutely against Discord TOS, please use it with caution.
 
 # Features!
 
