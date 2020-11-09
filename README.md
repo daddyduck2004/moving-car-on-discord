@@ -1,4 +1,7 @@
 # Moving car on Discord
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7133ab5fd94549c9af71c3523c89ccca)](https://app.codacy.com/gh/daddyduck2004/moving-car-on-discord?utm_source=github.com&utm_medium=referral&utm_content=daddyduck2004/moving-car-on-discord&utm_campaign=Badge_Grade)
+
 This is absolutely against Discord TOS, please use it with caution.
 
 ![Image](https://i.imgur.com/GQ8nJhs.gif)
