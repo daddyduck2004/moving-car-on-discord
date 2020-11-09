@@ -1,6 +1,8 @@
 # Moving car on Discord
 This is absolutely against Discord TOS, please use it with caution.
 
+![Image](https://i.imgur.com/GQ8nJhs.gif)
+
 # Features!
 
   - Continuously moving the car on a custom status
