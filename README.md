@@ -9,7 +9,7 @@ This is absolutely against Discord TOS, please use it with caution.
   - Show the distance the car has run on the status
   - Show visual car on console
 
-### Installation
+## Installation
 
 Install the [requests](https://pypi.org/project/requests/) package
 
