@@ -17,7 +17,11 @@ This is absolutely against Discord TOS, please use it with caution.
 Install the [requests](https://pypi.org/project/requests/) package
 
 ```sh
-$ pip3 install requests
+$ pip3 install -r requirements.txt
+```
+or
+```sh
+pip3 install requests 
 ```
 
 Edit discord token in main.py
