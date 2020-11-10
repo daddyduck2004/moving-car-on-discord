@@ -14,15 +14,14 @@ This is absolutely against Discord TOS, please use it with caution.
 
 ## Installation
 
-Install the [requests](https://pypi.org/project/requests/) package
+Clone this repository and use pip to install requirements
 
 ```sh
+git clone https://github.com/daddyduck2004/moving-car-on-discord.git
+cd moving-car-on-discord
 $ pip3 install -r requirements.txt
 ```
-or
-```sh
-pip3 install requests 
-```
+
 
 Edit discord token in main.py
 
