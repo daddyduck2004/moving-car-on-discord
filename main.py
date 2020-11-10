@@ -12,8 +12,7 @@ token = "YOUR TOKEN HERE"
 
 def updateCS(text: str):
 	signature = {"authorization": token}
-	uri = "https://discord.com/api/v8/users/@me/settings"
-	requests.patch(url=uri, json={"custom_status": {"text": text}}, headers=signature)
+	requests.patch(url="https://discord.com/api/v8/users/@me/settings", json={"custom_status": {"text": text}}, headers=signature)
 
 while True:
 	try:
